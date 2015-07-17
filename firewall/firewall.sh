@@ -276,5 +276,5 @@
 #####
 #     Save the Settings to the iptables
 #####
-/sbin/iptables-save > /etc/iptables/rules.v4
+#/sbin/iptables-save > /etc/iptables/rules.v4
 
